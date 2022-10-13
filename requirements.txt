@@ -4,4 +4,4 @@ pandas == 1.4.2
 plotly == 5.6.0
 matplotlib == 3.5.1
 seaborn == 0.11.2
-datetime == 2.8.2
+datetime == 2.11.2
