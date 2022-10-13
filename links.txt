@@ -1,1 +1,2 @@
 https://opendata.rdw.nl/resource/m9d7-ebf2.json?$$app_token=qXFPxMddONVr63MCrFtrxLUrN&$where=datum_eerste_tenaamstelling_in_nederland>20141231&$select=kenteken, datum_eerste_tenaamstelling_in_nederland&$limit=7000000
+https://opendata.rdw.nl/resource/8ys7-d773.json?$$app_token=qXFPxMddONVr63MCrFtrxLUrN&$select=kenteken, brandstof_omschrijving, klasse_hybride_elektrisch_voertuig&$limit=15000000
